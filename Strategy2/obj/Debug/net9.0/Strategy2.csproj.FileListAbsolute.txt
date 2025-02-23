@@ -1,0 +1,14 @@
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\Strategy2\bin\Debug\net9.0\Strategy2.exe
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\Strategy2\bin\Debug\net9.0\Strategy2.deps.json
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\Strategy2\bin\Debug\net9.0\Strategy2.runtimeconfig.json
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\Strategy2\bin\Debug\net9.0\Strategy2.dll
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\Strategy2\bin\Debug\net9.0\Strategy2.pdb
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\Strategy2\obj\Debug\net9.0\Strategy2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\Strategy2\obj\Debug\net9.0\Strategy2.AssemblyInfoInputs.cache
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\Strategy2\obj\Debug\net9.0\Strategy2.AssemblyInfo.cs
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\Strategy2\obj\Debug\net9.0\Strategy2.csproj.CoreCompileInputs.cache
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\Strategy2\obj\Debug\net9.0\Strategy2.dll
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\Strategy2\obj\Debug\net9.0\refint\Strategy2.dll
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\Strategy2\obj\Debug\net9.0\Strategy2.pdb
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\Strategy2\obj\Debug\net9.0\Strategy2.genruntimeconfig.cache
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\Strategy2\obj\Debug\net9.0\ref\Strategy2.dll
