@@ -1,0 +1,15 @@
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\FactoryMethod\bin\Debug\net9.0\FactoryMethod.exe
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\FactoryMethod\bin\Debug\net9.0\FactoryMethod.deps.json
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\FactoryMethod\bin\Debug\net9.0\FactoryMethod.runtimeconfig.json
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\FactoryMethod\bin\Debug\net9.0\FactoryMethod.dll
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\FactoryMethod\bin\Debug\net9.0\FactoryMethod.pdb
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\FactoryMethod\obj\Debug\net9.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\FactoryMethod\obj\Debug\net9.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\FactoryMethod\obj\Debug\net9.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\FactoryMethod\obj\Debug\net9.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\FactoryMethod\obj\Debug\net9.0\FactoryMethod.sourcelink.json
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\FactoryMethod\obj\Debug\net9.0\FactoryMethod.dll
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\FactoryMethod\obj\Debug\net9.0\refint\FactoryMethod.dll
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\FactoryMethod\obj\Debug\net9.0\FactoryMethod.pdb
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\FactoryMethod\obj\Debug\net9.0\FactoryMethod.genruntimeconfig.cache
+C:\Users\Эрик\RiderProjects\SOLID-PATTERNS\FactoryMethod\obj\Debug\net9.0\ref\FactoryMethod.dll

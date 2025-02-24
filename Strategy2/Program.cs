@@ -2,9 +2,9 @@
 
 namespace Strategy2;
 
-class Program
+internal class Program
 {
-    static void Main(string[] args)
+    private static void Main(string[] args)
     {
         PaymentContext payment = new(100);
         payment.ProcessPayment();

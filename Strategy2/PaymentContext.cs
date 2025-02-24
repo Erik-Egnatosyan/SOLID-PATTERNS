@@ -4,8 +4,8 @@ namespace Strategy2;
 
 public class PaymentContext
 {
-    private IPaymentStrategy _payment;
     private readonly decimal _money = 100;
+    private IPaymentStrategy _payment;
 
     public PaymentContext(decimal money)
     {
@@ -16,14 +16,14 @@ public class PaymentContext
     {
         _payment = payment;
     }
-    
+
     public void ProcessPayment()
     {
         Console.WriteLine("Выберите способ оплаты:");
         Console.WriteLine("1. PayPal");
         Console.WriteLine("2. Bank Card");
         Console.WriteLine("3. Visa");
-        int choice = Convert.ToInt32(Console.ReadLine());
+        var choice = Convert.ToInt32(Console.ReadLine());
         switch (choice)
         {
             case 1:
@@ -39,6 +39,7 @@ public class PaymentContext
                 Console.WriteLine("Неверный выбор");
                 return;
         }
+
         Console.WriteLine("Введите сумму для снятия:");
         var input = Convert.ToInt32(Console.ReadLine());
         if (input > _money)
@@ -46,6 +47,7 @@ public class PaymentContext
             Console.WriteLine("Недостаточно средств");
             return;
         }
+
         _payment?.ProcessPayment(input);
         Console.WriteLine($"Остаток: {_money - input}$");
     }
